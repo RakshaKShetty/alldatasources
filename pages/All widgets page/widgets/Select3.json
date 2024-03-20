@@ -8,7 +8,7 @@
     "serverSideFiltering": false,
     "defaultOptionValue": "GREEN",
     "animateLoading": true,
-    "leftColumn": 10,
+    "leftColumn": 20,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -26,6 +26,7 @@
     ],
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "originalBottomRow": 52,
     "mobileBottomRow": 52,
     "widgetName": "Select3",
     "isFilterable": true,
@@ -54,7 +55,7 @@
     "key": "c9bvgorlbq",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 30,
+    "rightColumn": 40,
     "widgetId": "5clcwckogq",
     "optionValue": "code",
     "minWidth": 450,
@@ -64,6 +65,7 @@
     "mobileTopRow": 45,
     "optionLabel": "name",
     "responsiveBehavior": "fill",
+    "originalTopRow": 45,
     "mobileLeftColumn": 10,
     "maxDynamicHeight": 9000,
     "minDynamicHeight": 4

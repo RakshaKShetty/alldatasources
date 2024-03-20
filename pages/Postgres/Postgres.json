@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 860,
+          "bottomRow": 950,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -40,6 +40,18 @@
                 "data_table.searchText || \"\"",
                 "(data_table.pageNo - 1) * data_table.pageSize"
               ],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Postgres_JSObject1.myFun1",
+              "name": "JSObject1.myFun1",
+              "collectionId": "Postgres_JSObject1",
+              "clientSideExecution": true,
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]

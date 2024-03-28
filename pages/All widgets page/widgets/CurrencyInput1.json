@@ -7,7 +7,7 @@
     "type": "CURRENCY_INPUT_WIDGET",
     "animateLoading": true,
     "resetOnSubmit": true,
-    "leftColumn": 0,
+    "leftColumn": 20,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -42,7 +42,7 @@
     "key": "v2kytbayy8",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 18,
+    "rightColumn": 38,
     "widgetId": "e99kktfp2j",
     "minWidth": 450,
     "label": "Label",

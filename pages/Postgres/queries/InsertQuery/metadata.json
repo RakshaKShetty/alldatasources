@@ -18,7 +18,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "INSERT INTO public.\"Habitasaurus_Habits\" (\n\t\"id\",\n\t\"Habitname\",\n\t\"Image\",\n\t\"Status21\")\nVALUES (\n\t'{{insert_form.formData.id}}',\n\t'{{insert_form.formData.Habitname}}',\n\t'{{insert_form.formData.Image}}',\n\t'{{insert_form.formData.Status21}}');",
+      "body": "INSERT INTO public.\"Habitasaurus_Habits\" (\n\t\"id\",\n\n\t\"Image\",\n\t\"Status21\")\nVALUES (\n\t'{{insert_form.formData.id}}',\n\t'{{insert_form.formData.Habitname}}',\n\t'{{insert_form.formData.Image}}',\n\t'{{insert_form.formData.Status21}}');",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -27,6 +27,11 @@
       ]
     },
     "executeOnLoad": false,
+    "dynamicBindingPathList": [
+      {
+        "key": "body"
+      }
+    ],
     "isValid": true,
     "invalids": [],
     "messages": [],

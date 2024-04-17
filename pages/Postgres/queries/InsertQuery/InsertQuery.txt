@@ -1,6 +1,6 @@
 INSERT INTO public."Habitasaurus_Habits" (
 	"id",
-	"Habitname",
+
 	"Image",
 	"Status21")
 VALUES (

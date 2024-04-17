@@ -65,7 +65,7 @@
       "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoOnly",
-      "showSignIn": true
+      "showSignIn": false
     }
   },
   "color": "#F5D1D1",

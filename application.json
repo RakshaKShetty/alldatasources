@@ -58,8 +58,8 @@
     },
     "navigationSetting": {
       "showNavbar": true,
-      "orientation": "side",
-      "navStyle": "sidebar",
+      "orientation": "top",
+      "navStyle": "inline",
       "position": "static",
       "itemStyle": "text",
       "colorStyle": "theme",

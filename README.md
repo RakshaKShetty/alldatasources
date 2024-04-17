@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
 
-This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
+This application is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
 
 ![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
 
@@ -9,3 +9,6 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 ##### You can visit the application using the below link
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://release.app.appsmith.com/applications/65a7642e9627d6415a5e9b67/pages/65a7642e9627d6415a5e9b72) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://release.app.appsmith.com/applications/65a7642e9627d6415a5e9b67/pages/65a7642e9627d6415a5e9b72/edit)
+
+
+

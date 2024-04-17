@@ -64,7 +64,7 @@
       "itemStyle": "text",
       "colorStyle": "theme",
       "logoAssetId": "",
-      "logoConfiguration": "applicationTitleOnly",
+      "logoConfiguration": "logoAndApplicationTitle",
       "showSignIn": true
     }
   },

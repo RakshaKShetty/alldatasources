@@ -39,6 +39,10 @@
     {
       "id": "All widgets page",
       "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "viewMode": false,

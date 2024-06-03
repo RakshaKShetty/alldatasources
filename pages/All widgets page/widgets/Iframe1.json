@@ -1,41 +1,49 @@
 {
-    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
-    "mobileBottomRow": 223,
-    "widgetName": "Iframe1",
-    "displayName": "Iframe",
-    "iconSVG": "/static/media/icon.a84667dbdc548d14f7c83df551151550.svg",
-    "searchTags": ["embed"],
-    "topRow": 191,
-    "bottomRow": 223,
-    "parentRowSpace": 10,
-    "source": "https://www.example.com",
-    "type": "IFRAME_WIDGET",
-    "hideCard": false,
-    "mobileRightColumn": 24,
-    "borderOpacity": 100,
-    "animateLoading": true,
-    "parentColumnSpace": 11.78125,
-    "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "borderRadius"},
-        {"key": "boxShadow"}
-    ],
-    "borderWidth": 1,
-    "flexVerticalAlignment": "start",
-    "key": "e3nid3lgs6",
-    "isDeprecated": false,
-    "rightColumn": 24,
-    "widgetId": "khr947v61y",
-    "isVisible": true,
-    "version": 1,
-    "parentId": "0",
-    "tags": ["Display"],
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "mobileTopRow": 191,
-    "responsiveBehavior": "fill",
-    "originalTopRow": 191,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "mobileLeftColumn": 0,
-    "originalBottomRow": 223
+  "animateLoading": true,
+  "borderOpacity": 100,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderWidth": 1,
+  "bottomRow": 223,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "displayName": "Iframe",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "flexVerticalAlignment": "start",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.a84667dbdc548d14f7c83df551151550.svg",
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "e3nid3lgs6",
+  "leftColumn": 0,
+  "mobileBottomRow": 223,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 191,
+  "originalBottomRow": 223,
+  "originalTopRow": 191,
+  "parentColumnSpace": 11.78125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 24,
+  "searchTags": [
+    "embed"
+  ],
+  "source": "https://www.example.com",
+  "tags": [
+    "Display"
+  ],
+  "topRow": 191,
+  "type": "IFRAME_WIDGET",
+  "version": 1,
+  "widgetId": "khr947v61y",
+  "widgetName": "Iframe1"
 }

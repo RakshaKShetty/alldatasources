@@ -1,62 +1,70 @@
 {
-    "mobileBottomRow": 401,
-    "widgetName": "NumberSlider1",
-    "defaultValue": 10,
-    "displayName": "Number Slider",
-    "iconSVG": "/static/media/icon.0e730017fc6034faa535c7c3ff261daa.svg",
-    "tooltipAlwaysOn": false,
-    "labelText": "Percentage",
-    "searchTags": ["range"],
-    "topRow": 393,
-    "bottomRow": 401,
-    "parentRowSpace": 10,
-    "labelWidth": 8,
-    "type": "NUMBER_SLIDER_WIDGET",
-    "hideCard": false,
-    "mobileRightColumn": 64,
-    "animateLoading": true,
-    "min": 0,
-    "parentColumnSpace": 11.78125,
-    "leftColumn": 25,
-    "dynamicBindingPathList": [{"key": "accentColor"}],
-    "shouldTruncate": false,
-    "labelPosition": "Top",
-    "isDisabled": false,
-    "key": "o8vp57pndu",
-    "labelTextSize": "0.875rem",
-    "isDeprecated": false,
-    "rightColumn": 64,
-    "max": 100,
-    "widgetId": "rqvexamymv",
-    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "isVisible": true,
-    "marks": [
-        {
-            "label": "25%",
-            "value": 25
-        },
-        {
-            "label": "50%",
-            "value": 50
-        },
-        {
-            "label": "75%",
-            "value": 75
-        }
-    ],
-    "sliderSize": "m",
-    "shouldScroll": false,
-    "version": 1,
-    "parentId": "0",
-    "tags": ["Sliders"],
-    "labelAlignment": "left",
-    "renderMode": "CANVAS",
-    "isLoading": false,
-    "mobileTopRow": 393,
-    "responsiveBehavior": "fill",
-    "originalTopRow": 393,
-    "mobileLeftColumn": 25,
-    "originalBottomRow": 401,
-    "step": 1,
-    "showMarksLabel": true
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "bottomRow": 401,
+  "defaultValue": 10,
+  "displayName": "Number Slider",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.0e730017fc6034faa535c7c3ff261daa.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "o8vp57pndu",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Percentage",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 8,
+  "leftColumn": 25,
+  "marks": [
+    {
+      "label": "25%",
+      "value": 25
+    },
+    {
+      "label": "50%",
+      "value": 50
+    },
+    {
+      "label": "75%",
+      "value": 75
+    }
+  ],
+  "max": 100,
+  "min": 0,
+  "mobileBottomRow": 401,
+  "mobileLeftColumn": 25,
+  "mobileRightColumn": 64,
+  "mobileTopRow": 393,
+  "originalBottomRow": 401,
+  "originalTopRow": 393,
+  "parentColumnSpace": 11.78125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "searchTags": [
+    "range"
+  ],
+  "shouldScroll": false,
+  "shouldTruncate": false,
+  "showMarksLabel": true,
+  "sliderSize": "m",
+  "step": 1,
+  "tags": [
+    "Sliders"
+  ],
+  "tooltipAlwaysOn": false,
+  "topRow": 393,
+  "type": "NUMBER_SLIDER_WIDGET",
+  "version": 1,
+  "widgetId": "rqvexamymv",
+  "widgetName": "NumberSlider1"
 }

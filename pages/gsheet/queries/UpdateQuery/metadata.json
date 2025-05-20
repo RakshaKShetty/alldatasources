@@ -118,9 +118,9 @@
       "name": "gsheet",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "gsheet",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

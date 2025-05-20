@@ -22,9 +22,9 @@
       "name": "postgres",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Postgres",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

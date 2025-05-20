@@ -22,9 +22,9 @@
       "name": "snowflake",
       "pluginId": "snowflake-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "snowflake",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

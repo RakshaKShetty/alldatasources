@@ -107,9 +107,9 @@
       "name": "mongo",
       "pluginId": "mongo-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "Mongo",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

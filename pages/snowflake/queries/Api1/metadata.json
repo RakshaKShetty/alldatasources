@@ -70,9 +70,9 @@
       "pluginId": "google-sheets-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "Api1",
     "pageId": "snowflake",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

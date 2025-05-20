@@ -22,9 +22,9 @@
       "name": "snowflake",
       "pluginId": "snowflake-plugin"
     },
-    "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "snowflake",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

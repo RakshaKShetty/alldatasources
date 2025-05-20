@@ -22,9 +22,9 @@
       "name": "mysql",
       "pluginId": "mysql-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "mysql",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

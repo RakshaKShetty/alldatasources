@@ -22,9 +22,9 @@
       "name": "postgres",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "Postgres",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

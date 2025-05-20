@@ -45,9 +45,9 @@
       "name": "S3",
       "pluginId": "amazons3-plugin"
     },
-    "executeOnLoad": false,
     "name": "ReadFile",
     "pageId": "S3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

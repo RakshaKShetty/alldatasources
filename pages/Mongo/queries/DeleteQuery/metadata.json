@@ -46,9 +46,9 @@
       "name": "mongo",
       "pluginId": "mongo-plugin"
     },
-    "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Mongo",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

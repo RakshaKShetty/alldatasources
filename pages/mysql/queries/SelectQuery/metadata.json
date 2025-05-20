@@ -22,9 +22,9 @@
       "name": "mysql",
       "pluginId": "mysql-plugin"
     },
-    "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "mysql",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

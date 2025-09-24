@@ -65,9 +65,6 @@
       "key": "primaryColumns.customColumn1.buttonLabel"
     },
     {
-      "key": "primaryColumns._id.computedValue"
-    },
-    {
       "key": "accentColor"
     },
     {
@@ -152,24 +149,6 @@
   "parentRowSpace": 10,
   "primaryColumnId": "_id",
   "primaryColumns": {
-    "appsmith_mongo_escape_id": {
-      "borderRadius": "0px",
-      "boxShadow": "none",
-      "columnType": "text",
-      "computedValue": "{{data_table.sanitizedTableData.map((currentRow) => ( currentRow._id))}}",
-      "enableFilter": true,
-      "enableSort": true,
-      "horizontalAlignment": "LEFT",
-      "id": "_id",
-      "index": 1,
-      "isCellVisible": true,
-      "isDerived": false,
-      "isVisible": true,
-      "label": "_id",
-      "textSize": "0.875rem",
-      "verticalAlignment": "CENTER",
-      "width": 150
-    },
     "customColumn1": {
       "borderRadius": "{{data_table.sanitizedTableData.map((currentRow) => ( (appsmith.theme.borderRadius.appBorderRadius)))}}",
       "boxShadow": "{{data_table.sanitizedTableData.map((currentRow) => ( \"none\"))}}",

@@ -1,11 +1,11 @@
 {
+  "gitSyncId": "65e16ce685b54555bd146fc2_65e16cfaa568df5799288721",
+  "id": "Postgres_JSObject1",
   "unpublishedCollection": {
     "name": "JSObject1",
     "pageId": "Postgres",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "myVar1",
@@ -15,10 +15,6 @@
         "name": "myVar2",
         "value": "{}"
       }
-    ],
-    "userPermissions": []
-  },
-  "id": "Postgres_JSObject1",
-  "deleted": false,
-  "gitSyncId": "65e16ce685b54555bd146fc2_65e16cfaa568df5799288721"
+    ]
+  }
 }

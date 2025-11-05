@@ -28,6 +28,7 @@
       }
     ],
     "name": "Postgres",
-    "slug": "postgres"
+    "slug": "postgres",
+    "uniqueSlug": "postgres"
   }
 }

@@ -28,6 +28,7 @@
       }
     ],
     "name": "S3",
-    "slug": "s3"
+    "slug": "s3",
+    "uniqueSlug": "s3"
   }
 }

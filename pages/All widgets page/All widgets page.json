@@ -27,6 +27,7 @@
       }
     ],
     "name": "All widgets page",
-    "slug": "all-widgets-page"
+    "slug": "all-widgets-page",
+    "uniqueSlug": "all-widgets-page"
   }
 }

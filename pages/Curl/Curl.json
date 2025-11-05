@@ -27,6 +27,7 @@
       }
     ],
     "name": "Curl",
-    "slug": "curl"
+    "slug": "curl",
+    "uniqueSlug": "curl"
   }
 }

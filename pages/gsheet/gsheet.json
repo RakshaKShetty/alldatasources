@@ -28,6 +28,7 @@
       }
     ],
     "name": "gsheet",
-    "slug": "gsheet"
+    "slug": "gsheet",
+    "uniqueSlug": "gsheet"
   }
 }

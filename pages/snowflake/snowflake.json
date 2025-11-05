@@ -28,6 +28,7 @@
       }
     ],
     "name": "snowflake",
-    "slug": "snowflake"
+    "slug": "snowflake",
+    "uniqueSlug": "snowflake"
   }
 }

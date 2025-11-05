@@ -28,6 +28,7 @@
       }
     ],
     "name": "mysql",
-    "slug": "mysql"
+    "slug": "mysql",
+    "uniqueSlug": "mysql"
   }
 }

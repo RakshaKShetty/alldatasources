@@ -85,6 +85,10 @@
       "isDefault": false
     }
   ],
+  "staticUrlSettings": {
+    "enabled": true,
+    "uniqueSlug": "ap"
+  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"

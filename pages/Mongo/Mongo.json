@@ -28,6 +28,7 @@
       }
     ],
     "name": "Mongo",
-    "slug": "mongo"
+    "slug": "mongo",
+    "uniqueSlug": "mongo"
   }
 }

@@ -27,6 +27,7 @@
       }
     ],
     "name": "firstore",
-    "slug": "firstore"
+    "slug": "firstore",
+    "uniqueSlug": "firstore"
   }
 }

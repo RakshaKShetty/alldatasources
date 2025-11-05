@@ -28,6 +28,7 @@
       }
     ],
     "name": "mock_api",
-    "slug": "mock-api"
+    "slug": "mock-api",
+    "uniqueSlug": "ap1"
   }
 }
